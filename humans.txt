@@ -9,5 +9,5 @@ Site: https://jamesdanielmarrsritchey.roy.gôv.net
 Location: Canada
 
 /* SITE */
-Last update: 2026/05/27
+Last update: 2026/05/30
 Standards: HTML5, CSS3, Javascript
